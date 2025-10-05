@@ -82,6 +82,10 @@ This exercise focuses on implementation of hierarchical clustering techniques, w
 2. **Stop criteria**: either terminate when a predefined number of clusters is reached or carry out full clustering and then cut the dendrogram at the appropriate level to yield the desired number of clusters.
 3. **Visualization**: present the resulting cluster assignments using a **scatter plot** to display the clustering structure.
 
+> [Jupyter Notebook](https://github.com/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_03.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_03.ipynb)
+
 
 # 💡 Notes
 ## How to create a Python Virtual Enviroment named `venv`
