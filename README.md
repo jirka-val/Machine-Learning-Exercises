@@ -86,6 +86,19 @@ This exercise focuses on implementation of hierarchical clustering techniques, w
 
 > [Google Colab](https://colab.research.google.com/github/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_03.ipynb)
 
+## Exercise 4
+This exercise focuses on application of clustering techniques on the selected dataset from the Kaggle or UCI repository. Students will apply different clustering algorithms, compare their results, and visualize the clustering structure using scatter plots.
+
+1. Download a dataset from [Kaggle](https://kaggle.com) or [UCI Machine Learning Repository](https://archive.ics.uci.edu).
+2. Apply K-means, Hierarchical and DB scan algorithms.
+3. Compare the results and interpret the results.
+
+> [Jupyter Notebook](https://github.com/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_04.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_04.ipynb)
+
+For the Exercise 4, there is also an interactive example, where we would demonstrate how can clustering be used in the real-world example, in this case we would try to use clustering on the property data. The example is in the [Examples folder](https://colab.research.google.com/github/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/examples/clustering/ml_04/flask_app)
+
 
 # 💡 Notes
 ## How to create a Python Virtual Enviroment named `venv`

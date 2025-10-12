@@ -1,0 +1,11 @@
+scrapy
+flask 
+sqlalchemy
+jinja2
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
