@@ -97,7 +97,7 @@ This exercise focuses on application of clustering techniques on the selected da
 
 > [Google Colab](https://colab.research.google.com/github/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_04.ipynb)
 
-For the Exercise 4, there is also an interactive example, where we would demonstrate how can clustering be used in the real-world example, in this case we would try to use clustering on the property data. The example is in the [Examples folder](https://github.com/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/examples/clustering/ml_04/flask_app)
+For the Exercise 4, there is also an interactive example, where we would demonstrate how can clustering be used in the real-world example, in this case we would try to use clustering on the property data. The example is in the [Examples folder](https://github.com/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/examples/clustering/ml_04)
 
 
 # 💡 Notes

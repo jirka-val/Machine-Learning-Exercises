@@ -4,6 +4,8 @@ This document describes the interactive clustering analysis feature added to the
 
 ## Overview
 
+`python app.py`
+
 The clustering feature allows you to perform unsupervised machine learning analysis on apartment data using different clustering algorithms with customizable preprocessing options.
 
 ## Features
@@ -176,19 +178,6 @@ The clustering feature allows you to perform unsupervised machine learning analy
 - **Scalers:** Mixed approach (PowerTransformer for prices, StandardScaler for others)
 - **Algorithm:** Agglomerative clustering
 - **Insight:** Holistic view of apartment market segments
-
-## Troubleshooting
-
-### Common Issues
-1. **"Vyberte alespoň 2 vlastnosti"**: Select at least 2 features
-2. **"Nedostatek dat pro clustering"**: Ensure database has sufficient data
-3. **PowerTransformer errors**: Fallback to StandardScaler automatically
-4. **Empty clusters**: Adjust algorithm parameters
-
-### Performance Notes
-- Large datasets may take longer to process
-- PCA visualization is limited to 2D projection
-- Boxplots are generated for all selected features
 
 ## Dependencies
 
