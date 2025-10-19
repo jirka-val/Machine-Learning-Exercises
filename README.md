@@ -99,6 +99,21 @@ This exercise focuses on application of clustering techniques on the selected da
 
 For the Exercise 4, there is also an interactive example, where we would demonstrate how can clustering be used in the real-world example, in this case we would try to use clustering on the property data. The example is in the [Examples folder](https://github.com/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/examples/clustering/ml_04)
 
+## Exercise 5
+The aim of the exercise is to test the possibilities of dimension reduction and verify the ability of methods to reduce noise in data. Use SVD decomposition and examine the error of matrix reconstruction. Another task is to use PCA and TSNE methods to create a 2D visualization of data.
+
+1. Apply SVD (complete) and Reduced SVD method to Bars Dataset and evaluate also data with noise.
+2. Reconstruct the data with different reduction (2, 5, 10, 16 basis functions).
+3. Try the NNMF method similarly.
+4. Take the Mnist dataset and apply SVD recomposition and visualize it in vector space. Coloring take from Labels
+5. Try to reconstruct the reduced data and visualize it.
+6. Use PCA and t-SNE for further visualization of the Mnist dataset.
+
+> [Jupyter Notebook](https://github.com/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_05.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_05.ipynb)
+
+For the Exercise 5, there is also an interactive guide with the mathematical explanations to understand the dimension reduction algorithms, intuition behind them and what are they good for. This example is for SVD, NNMF, PCA and t-SNE [Examples folder](https://github.com/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/examples/dimension_reduction/)
 
 # 💡 Notes
 ## How to create a Python Virtual Enviroment named `venv`
