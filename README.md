@@ -115,6 +115,21 @@ The aim of the exercise is to test the possibilities of dimension reduction and 
 
 For the Exercise 5, there is also an interactive guide with the mathematical explanations to understand the dimension reduction algorithms, intuition behind them and what are they good for. This example is for SVD, NNMF, PCA and t-SNE [Examples folder](https://github.com/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/examples/dimension_reduction/)
 
+## Exercise 6
+The aim of the exercise is to test ability to implement decision trees - an elementary algorithm with single splitting criteria that is easy to understand and interpret. Students should be able to apply the concepts learned in the course to build a decision tree from scratch.
+
+1. Implement a decision tree from scratch.
+2. Use a simple dataset to train the decision tree.
+3. Visualize the decision tree structure (console output is enough).
+4. Evaluate the performance of the decision tree.
+
+**Note**: You can also use any dataset from the [ml_06 datasets](https://github.com/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/datasets/ml_06/)
+
+> [Jupyter Notebook](https://github.com/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_06.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_06.ipynb)
+
+
 # 💡 Notes
 ## How to create a Python Virtual Enviroment named `venv`
 ### Create `venv`
