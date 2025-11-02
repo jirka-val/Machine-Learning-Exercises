@@ -129,6 +129,18 @@ The aim of the exercise is to test ability to implement decision trees - an elem
 
 > [Google Colab](https://colab.research.google.com/github/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_06.ipynb)
 
+## Exercise 7
+The aim of the exercise is to test various classification algorithms from Scikit-learn library. Students should be able to apply preprocessing when needed, and compare results of different methods. You may use the prepared template and data.
+
+1. Use classical datasets to train different models.
+2. Preprocess the data to gain maximum performance.
+3. Apply the classification algorithms from Scikit-learn.
+4. Evaluate the performance of the model.
+
+> [Jupyter Notebook](https://github.com/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_07.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lowoncuties/VSB-FEI-Machine-Learning-Exercises/blob/main/ml_07.ipynb)
+
 
 # 💡 Notes
 ## How to create a Python Virtual Enviroment named `venv`
